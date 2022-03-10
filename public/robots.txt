@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kpabhiram.netlify.app/sitemap.xml
+Host: https://kpabhiram.netlify.app
